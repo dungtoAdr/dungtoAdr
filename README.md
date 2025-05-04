@@ -1,9 +1,9 @@
 👋 Hi there! I’m Dung To
 
-- 👀 I’m interested in mobile app development, especially cross-platform apps.
+- 👀 I’m interested in mobile app development.
+- 🌱 I have a basic knowledge of android native.
 - 🌱 I’m currently learning Flutter and exploring Firebase integration.
-- 💞️ I’m looking to collaborate on open-source Flutter projects and learning communities.
-- 📫 How to reach me: totrungdung19032003@example.com
+- 📫 How to reach me: totrungdung19032003@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started coding out of curiosity and ended up loving it!
 
